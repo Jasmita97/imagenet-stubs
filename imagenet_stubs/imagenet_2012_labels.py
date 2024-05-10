@@ -999,8 +999,7 @@ IMAGENET_2012_LABELS = {
     995: 'earthstar',
     996: 'hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa',
     997: 'bolete',
-    998: 'ear, spike, capitulum',
-    999: 'toilet tissue, toilet paper, bathroom tissue'
+    998: 'ear, spike, capitulum'
 }
 
 IMAGENET_2012_LABELS_REVERSE = {v: k for k, v in
