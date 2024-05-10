@@ -1000,7 +1000,7 @@ IMAGENET_2012_LABELS = {
     996: 'hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa',
     997: 'bolete',
     998: 'ear, spike, capitulum',
-    999: 'toilet',
+    999: 'toilet tissue, toilet paper, bathroom tissue',
     1000: 'cat'
 }
 
