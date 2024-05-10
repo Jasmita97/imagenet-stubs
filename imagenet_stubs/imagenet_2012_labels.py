@@ -1001,7 +1001,6 @@ IMAGENET_2012_LABELS = {
     997: 'bolete',
     998: 'ear, spike, capitulum',
     999: 'toilet tissue, toilet paper, bathroom tissue',
-    1000: 'cat'
 }
 
 IMAGENET_2012_LABELS_REVERSE = {v: k for k, v in
